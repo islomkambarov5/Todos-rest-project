@@ -11,7 +11,7 @@ ___
 1. Clone the repository:
 
 ```git 
-clone https://github.com/islomkambarov5/Todos-rest-project
+git clone https://github.com/islomkambarov5/Todos-rest-project
 ```
 
 2. Install the dependencies:
