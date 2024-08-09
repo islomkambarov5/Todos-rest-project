@@ -1,12 +1,10 @@
 # Todos API
 
-___
 
 Todos API - Django-project to set your missions for today.
 
 ## Installation
 
-___
 
 1. Clone the repository:
 
@@ -40,9 +38,9 @@ python manage.py runserver
 
 
 ## Usage
-___
+
 ### Endpoints
-___
+
 
 - **GET `/api/`**: Retrieve a list of your todos
 - **POST `/api/`**: Create a new todo
