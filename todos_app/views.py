@@ -33,3 +33,4 @@ class TodosDeleteAPIView(generics.RetrieveDestroyAPIView):
     queryset = Todos.objects.all()
     serializer_class = TodosSerializer
 
+# nima gap
